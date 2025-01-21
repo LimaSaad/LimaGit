@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.print("To Do List!!");
+		System.out.print("Chance!!");
 	}
 
 }
